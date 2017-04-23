@@ -1,0 +1,8 @@
+[package]
+name = "first-rust"
+version = "0.1.0"
+authors = ["Mackristof <christophe@mourette.eu>"]
+
+[dependencies]
+reqwest = "0.5.1"
+rustc-serialize = "0.3"
